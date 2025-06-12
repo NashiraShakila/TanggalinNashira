@@ -31,10 +31,3 @@ Catatan :
 <img src="https://github.com/user-attachments/assets/6d6f9521-202a-43d3-a93b-18e0d10251d4" width="300" />
 <img src="https://github.com/user-attachments/assets/90d7336e-80e6-4734-a415-bf8b7c479419" width="300" />
 
-<img src="https://github.com/user-attachments/assets/bd972d0f-8220-4d78-b50b-b062c9042735" width="300" />
-<img src="https://github.com/user-attachments/assets/072caeea-98a6-46d2-9aa4-0c15d0bacd1c" width="300" />
-<img src="https://github.com/user-attachments/assets/09b49367-9025-4349-9c20-c7e00155ced8" width="300" />
-<img src="https://github.com/user-attachments/assets/38daa951-3e10-4a39-9d44-02a8b5709a59" width="300" />
-<img src="https://github.com/user-attachments/assets/bb7ff2ce-1315-441f-b5cd-9349c8edd1e2" width="300" />
-<img src="https://github.com/user-attachments/assets/c985074f-3603-4e35-94d4-f9fc78046860" width="300" />
-
